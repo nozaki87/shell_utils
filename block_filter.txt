@@ -2,4 +2,4 @@
 ||owoxauky.com^
 ||jooptibi.net^
 ||zadauque.net^
-||mangaraw.co##.iqic
+||mangaraw.co##div[style*="pointer-events:none;"]
