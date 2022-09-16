@@ -2,4 +2,6 @@
 ||owoxauky.com^
 ||jooptibi.net^
 ||zadauque.net^
-||mangaraw.co##div[style*="pointer-events:none;"]
+||mangaraw.co^##div[style*="pointer-events: none"]
+||mangaraw.co^##div:style(pointer-events: none)
+||daineely.net^
