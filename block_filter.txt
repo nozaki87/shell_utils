@@ -6,5 +6,5 @@
 ! ##[class^="__clb"]
 ! ###__clb-2025920_1_container
 /^https:\/\/[a-z]{8,12}\.com\/en\/(?:[a-z]{2,10}\/){0,2}[a-z]{2,}\?(?:[a-z]+=(?:\d+|[a-z]+)&)*?id=[12]\d{6}/$script
-/^https:\/\/[a-z]{8,12}\.com(?:\/[a-z]{2,10}){3}$/$script,3p,match-case,header=etag,to=com
+/^https:\/\/[a-z]{8,12}\.com(?:\/[a-z]{2,10}){3}$/$script,match-case
 ||appointeeivyspongy.com^
