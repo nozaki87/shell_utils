@@ -2,4 +2,5 @@
 
 ||avsojlonp.com^
 ##iframe[id^="__clb"]
+###__clb-2025920_1_container
 ||appointeeivyspongy.com^
