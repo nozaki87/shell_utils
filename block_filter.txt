@@ -1,5 +1,5 @@
 ! Title: CUSTOM RULES
 
 ||avsojlonp.com^
-||mangaraw.ac^##div[id^="__clb"]
+||mangaraw.ac##iframe[id^="__clb"]
 ||appointeeivyspongy.com^
